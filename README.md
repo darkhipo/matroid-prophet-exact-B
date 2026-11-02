@@ -1,3 +1,7 @@
+> **Superseded 2026-11-02** by [darkhipo/matroid-prophet-tight-corner](https://github.com/darkhipo/matroid-prophet-tight-corner) (exact-B evaluation + d/u/w corner re-search; C = 5.1149356887949946750e-10, 28/28 exact conditions).
+>
+> **Erratum:** below, `B = (261/256)^256` displays as ≈ 142.9; the correct value is **141.42909383389553568**. The exact-rational claims and checker in this repo are unaffected.
+
 # Matroid prophet inequality: the exact constant C(B)
 
 For every finite matroid, against the same almighty full-seed arrival-order
